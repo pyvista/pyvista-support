@@ -5,7 +5,7 @@ This issue provides a permanent record for others with similar questions
 to gain insight at a later date - your contributions here are signigicant
 to the community and much appreciated!
 
-Please always remember to be curteous to others posting on this forum as
+Please always remember to be courteous to others posting on this forum as
 we are all here voluntarily to help others use amazing new software.
 -->
 
