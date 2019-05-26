@@ -8,6 +8,7 @@ or projects in the PyVista ecosystem like:
 - [`pyansys`](https://github.com/akaszynski/pyansys)
 - [`PVGeo`](https://github.com/OpenGeoVis/PVGeo)
 - [`tetgen`](https://github.com/pyvista/tetgen)
+- [`pymeshfix`](https://github.com/pyvista/pymeshfix)
 
 
 This is the place to ask!
