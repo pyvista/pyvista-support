@@ -38,12 +38,14 @@ of this repository:
 [![Navigate to issues section](./images/repository.png)](https://github.com/pyvista/pyvista-support/issues)
 
 
-2. [Create a new issue](https://github.com/pyvista/pyvista-support/issues/new):
+2. Check if there is an issue similar to your question - it's quite possible that others have the same question as you so be sure to explore [all archived and active issues](https://github.com/pyvista/pyvista-support/issues?utf8=✓&q=is%3Aissue).
+
+3. [Create a new issue](https://github.com/pyvista/pyvista-support/issues/new) if you think this question hasn't been asked before now:
 
 [![Create a new issue](./images/issues.png)](https://github.com/pyvista/pyvista-support/issues/new)
 
 
-3. Fill out the issue template with your question by giving an informative
+4. Fill out the issue template with your question by giving an informative
 title and descriptive body, perhaps with example code that you have tried:
 
 ![Create an issue](./images/example.png)
