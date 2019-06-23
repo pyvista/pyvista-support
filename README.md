@@ -52,7 +52,7 @@ title and descriptive body, perhaps with example code that you have tried:
 
 Please consider subscribing to this support forum to learn and help others:
 
-![Subscribe](./image/subscribe.png)
+![Subscribe](./images/subscribe.png)
 
 ## PyVista Ecosystem
 
