@@ -50,7 +50,7 @@ title and descriptive body, perhaps with example code that you have tried:
 
 ## Subscribe
 
-Please consider subscribing to this support forum to learn and help others:
+Please consider subscribing to this support forum to learn from and help others:
 
 ![Subscribe](./images/subscribe.png)
 
