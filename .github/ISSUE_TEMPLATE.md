@@ -2,7 +2,7 @@
 Thank you for taking the time to create an issue for your topic/question.
 
 This issue provides a permanent record for others with similar questions
-to gain insight at a later date - your contributions here are signigicant
+to gain insight at a later date - your contributions here are significant
 to the community and much appreciated!
 
 Please always remember to be courteous to others posting on this forum as
@@ -16,8 +16,8 @@ Please be sure to add an informative title to this issue
 ## Description
 
 <!--
-Fill out a concise, decrsiption of your topic/question in this section.
-Feel free to post your own code here using Markdown formating
+Fill out a concise description of your topic/question in this section.
+Feel free to post your code here using Markdown formating
 -->
 
 
